@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Chief Rocka",
+  "base_artist": "Lords Of The Underground",
+  "createdAt": "2026-03-20T19:02:06.935220Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chief Rocka",
+      "artist": "Lords of the Underground",
+      "has_synced": true,
+      "path": "select/01_Chief_Rocka_Lords_of_the_Underground.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chief Rocka",
+      "artist": "Lords of the Underground",
+      "has_synced": true,
+      "path": "select/02_Chief_Rocka_Lords_of_the_Underground.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chief Rocka",
+      "artist": "Lords Of Underground",
+      "has_synced": true,
+      "path": "select/03_Chief_Rocka_Lords_Of_Underground.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chief Rocka",
+      "artist": "Lords of the Underground",
+      "has_synced": true,
+      "path": "select/04_Chief_Rocka_Lords_of_the_Underground.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chief Rocka",
+      "artist": "Lords Of The Underground",
+      "has_synced": true,
+      "path": "select/05_Chief_Rocka_Lords_Of_The_Underground.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lords Of The Underground - Chief Rocka",
+      "artist": "Ego Trip 1993",
+      "has_synced": true,
+      "path": "select/06_Lords_Of_The_Underground_-_Chief_Rocka_Ego_Trip_1993.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chief Rocka",
+      "artist": "Lords of the Underground",
+      "has_synced": true,
+      "path": "select/07_Chief_Rocka_Lords_of_the_Underground.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Chief Rocka",
+      "artist": "Ego",
+      "has_synced": true,
+      "path": "select/08_Chief_Rocka_Ego.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chief Rocka",
+      "artist": "Lords Of The Underground",
+      "has_synced": true,
+      "path": "select/09_Chief_Rocka_Lords_Of_The_Underground.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chief Rocka (LNRP Mixshow Edit) (Clean)",
+      "artist": "Lords of the Underground",
+      "has_synced": true,
+      "path": "select/10_Chief_Rocka_(LNRP_Mixshow_Edit)_(Clean)_Lords_of_the_Underground.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chief Rocka",
+      "artist": "Lords Of The Underground",
+      "has_synced": true,
+      "path": "select/11_Chief_Rocka_Lords_Of_The_Underground.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chief Rocka (video version)",
+      "artist": "Lords of the Underground",
+      "has_synced": true,
+      "path": "select/12_Chief_Rocka_(video_version)_Lords_of_the_Underground.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chief Rocka\u0000﻿Chief Rocka",
+      "artist": "Lords of the Underground",
+      "has_synced": true,
+      "path": "select/13_Chief_Rocka\u0000﻿Chief_Rocka_Lords_of_the_Underground.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chief Rocka",
+      "artist": "Lords of the Underground",
+      "has_synced": false,
+      "path": "select/pl_01_Chief_Rocka_Lords_of_the_Underground.txt"
+    }
+  ]
+}
