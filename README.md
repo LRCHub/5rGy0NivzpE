@@ -1,0 +1,106 @@
+# Lords Of The Underground – Chief Rocka
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:09.77] Chief Rocka, Chief Rocka, Chief Rocka, Chief Rocka
+[00:34.77] 
+[00:19.87] Boom shaka laka yo here comes the Chief Rocka
+[00:21.91] Rock it down so jump up off the tip you're not my nucca
+[00:24.18] For sharper type to battle make the people say
+[00:26.45] Think I won't curse I'll break down and say puta
+[00:50.45] 
+[00:29.21] Hey madrigon sesa me bichafi mi chocha?
+[00:31.73] Say what I want because I'm that type of guy
+[00:33.92] Now fam a lam I'll be damned, slam jams the weak
+[00:36.67] Could it be the skunk weed that makes us oh so funky?
+[01:03.17] 
+[00:39.09] Now hold it let me choose, couldn't be the booze
+[00:40.69] No it's the shoes it's gotta be the shoes
+[00:43.49] 'Cause girlies, they clock, they stand around and jock
+[00:45.82] So I say boom shaka lak, grab the microphone then rock
+[01:12.82] 
+[00:48.33] To think I'm the troop, when on the mic? I'll say it, it ain't the shows kid
+[00:51.68] Like drunk and a grump and sound over some
+[00:53.75] The cat in the hat and the mouse ran up the stairs
+[00:55.54] That doesn't make no sense, c'mon who cares?
+[01:17.54] 
+[00:58.30] See even without the gift there's yours so don't be tryin' to knock me
+[01:00.59] I say what I want to say, as long it sounds funk
+[01:02.62] Some MC's wanted to buy me, so they try to take stands
+[01:04.88] But they don't understand, I'm the motherfuckin' man
+[01:30.88] 
+[01:07.25] I amaze and astound, rhythm up and down
+[01:09.02] Smack a group of them around, let them know who wears the crown
+[01:12.21] Who's the tip of the top, the cream of the crop, the best under the sun?
+[01:14.82] I'm the Lord Chief Rocka, number one, Mr. Funke
+[01:38.32] 
+[01:17.19] The Lord Chief Rocka, number one, Chief Rocka
+[01:19.57] The Lord Chief Rocka, number one, Chief Rocka
+[01:21.75] The Lord Chief Rocka, number one, Chief Rocka
+[01:44.25] 
+[01:24.24] Well, boom, shak-a-lak, I got the flavors, the funk
+[01:39.01] Whew! And it's smellin' up the hip-hop
+[01:41.25] A little bit of this, a little bit of that
+[01:43.50] Mixed a, little of this, and now I gotta rap
+[02:05.50] 
+[01:45.78] I'm the, Chief Rocka, so I guess I am in charge
+[01:48.26] I freak it with a twist so you'll boom it in your cars
+[01:50.58] I'm the, one with the flow and the grip like G.I. Joe
+[01:53.14] I snatch, I grab, and then I grab the dough, see if
+[02:18.64] 
+[01:55.58] I was an Indian I'd still be the Chief
+[01:57.82] The only other difference I'd smoke weed in a leaf
+[02:00.25] To the hip, the hop, to the hibby to the hibbidy
+[02:02.66] Hip hop, oh no, I don't wanna go pop
+[02:20.66] 
+[02:05.31] I got, too much soul, rhythm and blues
+[02:07.75] R and B ya see, all that's cool, but
+[02:09.75] Hip hop and rap yeah that's where my heart's at
+[02:12.53] Even back when I used to break on a box
+[02:32.03] 
+[02:14.78] Backspins for backspin, even while I'm rappin'
+[02:17.24] Before I had a record, I always kept 'em clappin'
+[02:19.59] Freestylin' on the block, now I Chief Rock
+[02:21.92] I always entertain, by diggin' in my crux
+[02:42.42] 
+[02:24.34] My brain, so if it's gonna rain let it rain
+[02:26.68] I spook you with the hit, make you jump like house of pain
+[02:28.95] Boogaloo boogaloo, shake and jump
+[02:31.23] And remember, remember, Chief Rocka won't front
+[02:54.73] 
+[02:33.93] The Lord Chief Rocka, number one, Chief Rocka
+[02:37.78] The Lord Chief Rocka, number one, Chief Rocka
+[02:39.05] The Lord Chief Rocka, number one, Chief Rocka
+[02:40.75] The Lord Chief Rocka, Chief Rocka
+[02:57.25] 
+[02:42.97] Ay Mr. Funke, whassup? Can I get assistance?
+[02:45.92] For what? For what? Yo Jazz, flex a cut
+[02:48.11] Well back is the backer, I'm chillin' with my knocker
+[02:50.81] And if ya got beef, then you can live with Jimmy Hoffa like
+[03:20.31] 
+[02:53.14] What goes up, must come down
+[02:57.46] But not me clown
+[02:58.12] I cut 'em, crack a speaker when I'm pumpin'
+[03:00.12] So jump in, and watch your ears start hummin'
+[03:22.62] 
+[03:02.03] Through the block, and don't forget to boom shak shak-a-lak
+[03:05.71] Well damn do it all can I rock?
+[03:07.47] I hear a beat I grab the mic, and then I start this workin'
+[03:09.92] The kids around the way used to think that I was buggin'
+[03:37.92] 
+[03:12.13] But they don't understand how I feel about the funk
+[03:14.53] I walk with the funk, I talk with the funk
+[03:16.98] I eat with the funk, I sleep with the funk
+[03:19.45] I live for the funk, I'll die for the funk
+[03:21.89] So now what do they say, when I'm walkin' up the block?
+[03:24.14] Boom shaka laka there goes the Chief Rocka
+[03:45.14] 
+[03:26.69] The Lord Chief Rocka, number one, Chief Rocka
+[03:29.17] The Lord Chief Rocka, number one, Chief Rocka
+[03:31.48] The Lord Chief Rocka, number one, Chief Rocka
+[03:53.98] 
+[03:34.08] The Lord Chief Rocka, number one
+[03:37.10] The Lord Chief Rocka, number one
+[03:38.83] The Lord Chief Rocka, number one
+```
